@@ -47,6 +47,7 @@ h2 {
 /* Styling for the top navigation bar */
 .topnav {
 	overflow: hidden;
+	display: inline-block;
   }
 
 .topnav a {
@@ -59,11 +60,11 @@ h2 {
 }
 
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: rgb(249, 250, 252);
   color: black;
 }
 
 .topnav a.active {
-  background-color: #22dce2;
+  background-color: #11b0e9c1;
   color: white;
 }
